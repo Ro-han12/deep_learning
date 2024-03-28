@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "cell-segmentation/Cell-Segmentation"
+		},
+		{
+			"path": "../Downloads/End-to-end-Cell-Segmentation-Using-Yolo-v8-main/flowcharts"
+		}
+	],
+	"settings": {}
+}
